@@ -1,7 +1,3 @@
-Berikut adalah versi lengkap dari **README.md** untuk proyek scraping ulasan Tokopedia dan analisis sentimen di Orange, termasuk skrip scraping, preprocessing, dan visualisasi.
-
----
-
 # Proyek Scraping Ulasan Tokopedia dan Analisis Sentimen
 
 Proyek ini bertujuan untuk melakukan scraping ulasan dari halaman produk di Tokopedia, menyimpan data dalam format CSV, dan menganalisis sentimen dari ulasan tersebut menggunakan Orange. Proyek ini terdiri dari beberapa tahap utama: scraping data, preprocessing teks, analisis sentimen, dan visualisasi hasil.
